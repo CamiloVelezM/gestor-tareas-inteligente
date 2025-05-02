@@ -1,2 +1,7 @@
-__pycache__/
-*.pyc
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+.vscode/
