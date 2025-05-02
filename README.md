@@ -1,5 +1,11 @@
 # Gestor de Tareas Inteligente
 
+INTEGRANTES
+  WUDEISON
+  ANDRES CAMILO VELEZ MONCADA
+  
+
+
 Este proyecto consiste en una aplicación de consola desarrollada en C#, cuyo objetivo es gestionar tareas de manera eficiente aplicando estructuras de datos vistas en el curso.
 
 ## Funciones implementadas
