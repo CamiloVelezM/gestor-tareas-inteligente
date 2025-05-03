@@ -1,7 +1,9 @@
 # Gestor de Tareas Inteligente
 
 INTEGRANTES
-  WUDEISON
+ 
+  
+  WUDEISON TOVAR CRUZ
 
   
   ANDRES CAMILO VELEZ MONCADA
