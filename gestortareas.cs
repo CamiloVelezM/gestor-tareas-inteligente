@@ -111,5 +111,14 @@ namespace GestionTareas
         {
             return PredecirPrioridad(descripcion);
         }
+
+        /// <summary>
+        /// Devuelve la cantidad total de tareas (pendientes o completadas).
+        /// Complejidad: O(1) porque accede directamente al tamaño de la lista.
+        /// </summary>
+        public int ContarTareas()
+        {
+            return tareas.Count;
+        }
     }
 }
